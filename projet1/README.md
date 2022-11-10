@@ -32,7 +32,7 @@ Cette table aura les colonnes suivantes: clearText, hashedText, hashFn
 
 ### 2. Dockerisation
 - Ecrire le Dockerfile permettant de conteneuriser l'application python/flask
-- Ecrire le fichier docker-compose.yml file permettant de déployer localement un service flask et un service mariadb
+- Ecrire le fichier docker-compose.yml permettant de déployer localement un service flask et un service mariadb
 - Faire un build de l'image et la pousser sur le docker hub.
 
 
