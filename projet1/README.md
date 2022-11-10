@@ -35,6 +35,9 @@ Cette table aura les colonnes suivantes: clearText, hashedText, hashFn
 - Ecrire le fichier docker-compose.yml permettant de déployer localement un service flask et un service mariadb
 - Faire un build de l'image et la pousser sur le docker hub.
 
+#### Liens utiles
+- [How to Dockerize a Flask Application](https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/)
+
 
 ### 3. CI/CD
 - Configurer une pipeline gitlab-ci avec les deux jobs parallèles suivants
