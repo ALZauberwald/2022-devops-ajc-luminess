@@ -24,3 +24,5 @@ java -jar ./build/libs/cars-api.jar
 # génére le répertoire build/reports/test
 gradlew test
 ```
+
+![Schema](java-schema.png)
